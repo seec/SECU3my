@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HIP9011\TPIC8101
+D PAL/NTSC Encoder, RGB or Y/Y-R/Y-B Inputs, DIP/SOIC-20
+K Video Encoder
+F http://www.nxp.com/documents/data_sheet/TDA8501.pdf
+$ENDCMP
+#
+#End Doc Library
